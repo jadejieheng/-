@@ -1,0 +1,20 @@
+Microsoft Windows [Version 10.0.18362.476]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\aubre>C:\Users\aubre\Desktop
+'C:\Users\aubre\Desktop' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\aubre><Desktop>
+The syntax of the command is incorrect.
+
+C:\Users\aubre>python hello.py
+python: can't open file 'hello.py': [Errno 2] No such file or directory
+
+C:\Users\aubre>cd desktop
+
+C:\Users\aubre\Desktop>python hello.py
+hello, world!
+
+C:\Users\aubre\Desktop>
+
