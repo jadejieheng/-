@@ -1,2 +1,2 @@
-# 我不懂电脑
+# drafts
 documentation of unfamiliar commands
